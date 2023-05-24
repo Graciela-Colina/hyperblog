@@ -1,2 +1,2 @@
 # hyperblog
-Primer blog de practica para el curso de github
+Un blog increíble para el curso de Git y Github de Platzi
